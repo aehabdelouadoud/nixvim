@@ -1,0 +1,3 @@
+{
+  colorschemes.oxocarbon.enable = true;
+}
